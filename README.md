@@ -178,10 +178,6 @@ flowchart TD
     M --> R[/Exibe resultado/]:::ok --> F([⏹ Fim]):::inicio
 ```
 
-> 📝 **Minhas anotações sobre o fluxo geral**
->
-> _(...)_
-
 ---
 
 ## 4. Casos de teste
@@ -205,8 +201,6 @@ flowchart TD
 | CT04 | Desconto R$ 80,00, total R$ 680,00 | ❌ | Desconto R$ 120,00, total R$ 680,00 | ✅ |
 | CT05 | "Alto valor", total R$ 3.000,00 | ❌ | "Alto valor", total R$ 2.850,00 | ✅ |
 | CT06 | "Sucesso", total R$ 2.907,00 | ❌ | "Alto valor", total R$ 2.907,00 | ✅ |
-
-> 📸 **Evidências:** _(cole aqui os prints dos testes antes e depois)_
 
 ---
 
